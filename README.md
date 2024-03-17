@@ -104,7 +104,7 @@ void loop() {
 
 ## Pictures
 
-<img src="https://github.com/ItsRawanMoha/ESP32_Bluetooth_with_3LEDs_and_MIT_AppInventor/blob/main/1.gif" alt="Alt text" width="600" height="400"> <img src="https://github.com/ItsRawanMoha/ESP32_Bluetooth_with_3LEDs_and_MIT_AppInventor/blob/main/1.jpeg" alt="Alt text" width="400" height="400">  
+<img src="https://github.com/ItsRawanMoha/ESP32_Bluetooth_with_3LEDs_and_MIT_AppInventor/blob/main/1.gif" alt="Alt text" width="500" height="400"> <img src="https://github.com/ItsRawanMoha/ESP32_Bluetooth_with_3LEDs_and_MIT_AppInventor/blob/main/1.jpeg" alt="Alt text" width="300" height="400">  
 
 
 The ESP32, coupled with a button and an LED, can be configured to receive binary data (1 or 0) via Bluetooth. Utilizing the Serial Bluetooth Terminal app, users can send signals wirelessly to the ESP32, triggering the LED based on the received data. This simple setup enables remote control or automation applications where a button press on the app corresponds to turning the LED on or off. As shown below: 
